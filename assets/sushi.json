@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Sushi 1",
+    "description": "Sushi ini menghadirkan paduan rasa yang lezat dan unik, menggabungkan berbagai bahan premium yang meleleh di mulut Anda. Setiap potong sushi ini dirancang untuk memberikan keseimbangan sempurna antara rasa dan tekstur, menciptakan pengalaman yang tak terlupakan.",
+    "price": 150,
+    "img_path": "assets/Gambar1.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Sushi 2",
+    "description": "Nikmati cita rasa tradisional dengan sentuhan modern pada sushi ini yang menyajikan keseimbangan rasa yang sempurna. Dibuat dengan bahan-bahan segar dan teknik kuliner yang canggih, sushi ini adalah perwujudan dari inovasi dalam dunia kuliner.",
+    "price": 180,
+    "img_path": "assets/Gambar2.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Sushi 3",
+    "description": "Sushi ini merupakan perpaduan ikan segar dan nasi yang sempurna, memberikan pengalaman kuliner yang tidak terlupakan. Dengan setiap gigitan, Anda akan merasakan harmoni antara rasa alami ikan dan kelembutan nasi yang dimasak dengan sempurna.",
+    "price": 120,
+    "img_path": "assets/Gambar3.jpg",
+    "rating": 4.7
+  },
+  {
+    "name": "Sushi 4",
+    "description": "Kombinasi rasa manis dan gurih yang pas membuat sushi ini menjadi favorit banyak orang yang mencari kenikmatan autentik. Sushi ini menggunakan bahan-bahan pilihan yang diolah dengan teliti untuk memastikan setiap potongan memberikan rasa yang memuaskan.",
+    "price": 165,
+    "img_path": "assets/Gambar4.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "Sushi 5",
+    "description": "Kenikmatan yang tidak dapat terlupakan dengan sushi ini, menghadirkan cita rasa yang memanjakan lidah di setiap gigitan. Setiap komponen dari sushi ini dipilih dengan hati-hati dan disusun dengan keahlian, membuatnya menjadi pengalaman kuliner yang istimewa.",
+    "price": 130,
+    "img_path": "assets/Gambar5.jpg",
+    "rating": 4.9
+  },
+  {
+    "name": "Sushi 6",
+    "description": "Rasa autentik dari Jepang dihadirkan melalui sushi ini yang dibuat dengan bahan-bahan pilihan dan teknik tradisional. Setiap potongan menawarkan rasa asli Jepang yang kaya dan memuaskan, membawa Anda seolah-olah berada di negeri sakura.",
+    "price": 170,
+    "img_path": "assets/Gambar6.jpg",
+    "rating": 4.4
+  },
+  {
+    "name": "Sushi 7",
+    "description": "Sensasi unik dalam setiap gigitan sushi ini akan membawa Anda pada perjalanan rasa yang kaya dan berkesan. Dengan paduan rasa yang kompleks namun harmonis, sushi ini adalah pilihan sempurna bagi pecinta kuliner yang mencari sesuatu yang berbeda.",
+    "price": 190,
+    "img_path": "assets/Gambar7.jpg",
+    "rating": 4.3
+  },
+  {
+    "name": "Sushi 8",
+    "description": "Lezatnya sushi ini dengan bahan pilihan terbaik memberikan pengalaman kuliner yang tiada duanya. Dari kesegaran bahan hingga keahlian dalam penyajian, setiap elemen dari sushi ini dirancang untuk memanjakan lidah Anda.",
+    "price": 140,
+    "img_path": "assets/Gambar8.jpg",
+    "rating": 4.7
+  },
+  {
+    "name": "Sushi 9",
+    "description": "Pengalaman kuliner yang tiada duanya dihadirkan melalui sushi ini dengan perpaduan bahan yang tepat. Sushi ini menawarkan kelezatan yang menyatu dalam setiap potongan, memberikan sensasi rasa yang kaya dan beragam.",
+    "price": 110,
+    "img_path": "assets/Gambar9.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Sushi 10",
+    "description": "Sajian sushi dengan rasa yang mendalam ini memberikan kenikmatan yang sulit untuk dilupakan. Dengan setiap gigitan, Anda akan menemukan harmoni sempurna antara kesegaran bahan dan keahlian dalam penyajiannya.",
+    "price": 155,
+    "img_path": "assets/Gambar10.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Sushi 11",
+    "description": "Nikmati setiap gigitan sushi ini yang memanjakan lidah dengan rasa yang otentik dan penuh kenikmatan. Dibuat dengan teknik tradisional dan bahan-bahan terbaik, sushi ini adalah perwujudan dari kuliner Jepang yang sejati.",
+    "price": 175,
+    "img_path": "assets/Gambar11.jpg",
+    "rating": 4.2
+  }
+]
